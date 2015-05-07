@@ -5,4 +5,5 @@ interact with when using the 3-Axis Prototying Machine. It uses Qt5.
 
 ## Files
 
-`idle.xml` - The UI shown when the machine is waiting for input (idle).
+- `idle.ui` - The UI shown when the machine is waiting for input (idle).
+- `history.ui` - The list of previous jobs run.
